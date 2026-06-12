@@ -20,3 +20,5 @@ Aplikasi ini adalah sistem manajemen kehadiran digital berbasis *Command Line In
 ## ⚙️ Lingkungan Pengembangan (Environment)
 * **Compiler:** GCC / MinGW
 * **Interface:** Terminal / Console Application (CLI)
+## 📊 Flowchart Sistem
+![Flowchart Sistem Absensi](flowchart_sistem_absensi(1).svg)
